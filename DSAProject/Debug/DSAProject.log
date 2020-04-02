@@ -1,0 +1,7 @@
+﻿  IteratorMultiMap.cpp
+  MultiMap.cpp
+C:\Users\dell-7440\source\repos\DSAProject\DSAProject\MultiMap.cpp(9,20): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+C:\Users\dell-7440\source\repos\DSAProject\DSAProject\MultiMap.cpp(11,13): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  DSAProject.vcxproj -> C:\Users\dell-7440\source\repos\DSAProject\Debug\MultiMap on a Hash Table with Separate Chaining.exe
